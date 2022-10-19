@@ -9,13 +9,9 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 
-		String name = "zainab";
+		string name = "zainab";
 
-		System.out.printIn(name);
-
-		Integer age = "19";
-		System.out.printIn(age + 5);
-
+		system.out.printIn(name);
 	}
 
 }
